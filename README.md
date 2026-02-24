@@ -4,8 +4,6 @@ A clean and modern pricing page component built with **Vue 3** (Composition API 
 
 **Important:** This component contains **zero JavaScript logic** — only template markup and scoped CSS. No state, no reactivity beyond Vue's template, no API calls.
 
-![Pricing Preview](screenshot.png)
-
 ## Features
 
 - Three pricing plans: Starter (Free), Pro, Enterprise
